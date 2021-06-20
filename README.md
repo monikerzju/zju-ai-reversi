@@ -1,4 +1,4 @@
-# AI_Reversi
+# AI Reversi
 
 This project is only for Zhejiang University AI Course.
 
